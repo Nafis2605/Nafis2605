@@ -30,7 +30,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nafis2605&layout=compact&theme=tokyonight)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Nafis2605&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+<img src="https://streak-stats.demolab.com?user=Nafis2605&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nafis2605&theme=tokyo-night&area=true&hide_border=true" alt="GitHub Contribution Graph">
 
@@ -45,6 +45,4 @@
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fahim-arsad/)  
-📧 Email: fnafis2@gmu.edu
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fahim-arsad/) 
